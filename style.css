@@ -6,8 +6,7 @@ h1 {
   background-color: grey;
 }
 
-.nav {
-  background-color: lightgrey; 
+.nav { 
   list-style-type: none;
   text-align: center;
   margin: 0;
